@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hackarence
 - 👀 I’m interested in Cyber Security, Ethical Hacking, Networking, Programming etc.
-- 🌱 I’m currently learning Networking & Pyhon Programming.
+- 🌱 I’m currently learning Networking & Python Programming.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
